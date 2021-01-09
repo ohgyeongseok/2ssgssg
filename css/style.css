@@ -261,7 +261,7 @@ div.sub_text:nth-child(2) {
   position:relative;
   text-align: left;
   margin-left: 20vw;
-  width: 800px;
+  /* width: 800px; */
   line-height: 1.7;
 }
 #container_3 .text .inner_text_3{
@@ -270,7 +270,7 @@ div.sub_text:nth-child(2) {
   margin-top: 10vh;
   margin-left: 20vw;
   margin-bottom: 20vh;
-  width: 800px;
+  /* width: 800px; */
   line-height: 1.7;
 }
 #container_3 .text .main_text{
@@ -514,7 +514,7 @@ div.sub_text:nth-child(2) {
     position:relative;
     text-align: left;
     margin-left: 20vw;
-    width: 800px;
+    /* width: 800px; */
     line-height: 1.7;
   }
   #container_3 .text .inner_text_3{
@@ -523,7 +523,7 @@ div.sub_text:nth-child(2) {
     margin-top: 8vh;
     margin-left: 20vw;
     margin-bottom: 12.5vh;
-    width: 800px;
+    /* width: 800px; */
     line-height: 1.7;
   }
   #container_3 .text .main_text{
@@ -767,7 +767,7 @@ div.sub_text:nth-child(2) {
     position:relative;
     text-align: left;
     margin-left: 20vw;
-    width: 800px;
+    /* width: 800px; */
     line-height: 1.5;
   }
   #container_3 .text .inner_text_3{
@@ -776,7 +776,7 @@ div.sub_text:nth-child(2) {
     margin-top: 6vh;
     margin-left: 20vw;
     margin-bottom: 12.5vh;
-    width: 800px;
+    /* width: 800px; */
     line-height: 1.5;
   }
   #container_3 .text .main_text{
@@ -1020,7 +1020,7 @@ div.sub_text:nth-child(2) {
     position:relative;
     text-align: left;
     margin-left: 20vw;
-    width: 800px;
+    /* width: 800px; */
     line-height: 1.5;
   }
   #container_3 .text .inner_text_3{
@@ -1029,7 +1029,7 @@ div.sub_text:nth-child(2) {
     margin-top: 6vh;
     margin-left: 20vw;
     margin-bottom: 12.5vh;
-    width: 800px;
+    /* width: 800px; */
     line-height: 1.5;
   }
   #container_3 .text .main_text{
