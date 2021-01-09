@@ -44,7 +44,7 @@ table {
 }
 .swiper-slide {
   text-align: center;
-  font-size: 18px;
+  font-size: 9px;
   background: #fff;
 
   
@@ -142,7 +142,7 @@ span.swiper-pagination-bullet:nth-child(10) {
   height: 100%;
   position: relative;
   text-align: center;
-  font-size: 48px;
+  font-size: 24px;
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: 100;
   line-height: 1.7;
@@ -153,7 +153,7 @@ span.swiper-pagination-bullet:nth-child(10) {
   width: 100%;
   margin: 20vh auto;
   font-family: 'Noto Sans KR', sans-serif;
-  font-size: 72px;
+  font-size: 36px;
   font-weight: 300;
   line-height: 1.7;
 }
@@ -163,7 +163,7 @@ div.sub_text:nth-child(2) {
   }
 #container_1 .text .main_text .a{
   font-family: 'Nanum Pen Script', cursive;
-  font-size: 130px;
+  font-size: 65px;
 }
 
 /* 1페이지 끝 */
@@ -190,13 +190,13 @@ div.sub_text:nth-child(2) {
   margin: 25vh auto;
   position: relative;
   text-align: center;
-  font-size: 48px;
+  font-size: 24px;
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: 100;
 }
 
 #container_2 .border{
-  border-bottom: 2px solid black;
+  border-bottom: 1px solid black;
   width: 70vw;
   margin: 0 auto;
   margin-top: -2vh;
@@ -213,7 +213,7 @@ div.sub_text:nth-child(2) {
 #container_2 .text .main_text{
   margin: 5vh;
   font-family: 'Noto Sans KR', sans-serif;
-  font-size: 48px;
+  font-size: 24px;
   font-weight: 300;
 
 }
@@ -240,14 +240,14 @@ div.sub_text:nth-child(2) {
 #container_3 .text{
   position: relative;
   text-align: center;
-  font-size: 48px;
+  font-size: 24px;
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: 100;
   margin: 0 auto;
 }
 
 #container_3 .border{
-  border-bottom: 2px solid black;
+  border-bottom: 1px solid black;
   width: 70vw;
   margin: 0 auto;
   margin-top: -2vh;
@@ -276,7 +276,7 @@ div.sub_text:nth-child(2) {
 #container_3 .text .main_text{
   margin: 5vh;
   font-family: 'Noto Sans KR', sans-serif;
-  font-size: 48px;
+  font-size: 24px;
   font-weight: 300;
 
 }
@@ -304,13 +304,13 @@ div.sub_text:nth-child(2) {
 #container_4 .text{
   position: relative;
   text-align: center;
-  font-size: 48px;
+  font-size: 24px;
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: 100;
 }
 
 #container_4 .border{
-  border-bottom: 2px solid black;
+  border-bottom: 1px solid black;
   width: 70vw;
   margin: 3vh auto;
 }
@@ -340,7 +340,7 @@ div.sub_text:nth-child(2) {
 #container_4 .text .main_text{
   margin-top: 25vh;
   font-family: 'Noto Sans KR', sans-serif;
-  font-size: 48px;
+  font-size: 24px;
   font-weight: 300;
 
 }
@@ -355,13 +355,13 @@ div.sub_text:nth-child(2) {
 
  #container_5{
    text-align: center;
-   font-size: 30px;
+   font-size: 15px;
    font-family: 'Heebo', sans-serif;
    margin-bottom:  20vh;
 
 }
 #container_5 .border{
-  border-bottom: 2px solid black;
+  border-bottom: 1px solid black;
   width: 70vw;
   margin: 3vh auto;
 }
@@ -395,7 +395,7 @@ div.sub_text:nth-child(2) {
     height: 100%;
     position: relative;
     text-align: center;
-    font-size: 30px;
+    font-size: 15px;
     font-family: 'Noto Sans KR', sans-serif;
     font-weight: 100;
     line-height: 1.7;
@@ -406,7 +406,7 @@ div.sub_text:nth-child(2) {
     width: 100%;
     margin: 12.5vh auto;
     font-family: 'Noto Sans KR', sans-serif;
-    font-size: 45px;
+    font-size: 22px;
     font-weight: 300;
     line-height: 1.7;
   }
@@ -416,7 +416,7 @@ div.sub_text:nth-child(2) {
     }
   #container_1 .text .main_text .a{
     font-family: 'Nanum Pen Script', cursive;
-    font-size: 81px;
+    font-size: 40px;
   }
   
   /* 1페이지 끝 */
@@ -443,13 +443,13 @@ div.sub_text:nth-child(2) {
     margin: 12.5vh auto;
     position: relative;
     text-align: center;
-    font-size: 30px;
+    font-size: 15px;
     font-family: 'Noto Sans KR', sans-serif;
     font-weight: 100;
   }
   
   #container_2 .border{
-    border-bottom: 2px solid black;
+    border-bottom: 1px solid black;
     width: 70vw;
     margin: 0 auto;
     margin-top: -2vh;
@@ -466,7 +466,7 @@ div.sub_text:nth-child(2) {
   #container_2 .text .main_text{
     margin: 3vh;
     font-family: 'Noto Sans KR', sans-serif;
-    font-size: 30px;
+    font-size: 15px;
     font-weight: 300;
   
   }
@@ -493,14 +493,14 @@ div.sub_text:nth-child(2) {
   #container_3 .text{
     position: relative;
     text-align: center;
-    font-size: 30px;
+    font-size: 15px;
     font-family: 'Noto Sans KR', sans-serif;
     font-weight: 100;
     margin: 0 auto;
   }
   
   #container_3 .border{
-    border-bottom: 2px solid black;
+    border-bottom: 1px solid black;
     width: 70vw;
     margin: 0 auto;
     margin-top: -2vh;
@@ -513,7 +513,7 @@ div.sub_text:nth-child(2) {
   #container_3 .text .inner_text_2{
     position:relative;
     text-align: left;
-    margin-left: 8vw;
+    margin-left: 20vw;
     width: 800px;
     line-height: 1.7;
   }
@@ -521,7 +521,7 @@ div.sub_text:nth-child(2) {
     position: relative;
     text-align: left;
     margin-top: 8vh;
-    margin-left: 8vw;
+    margin-left: 20vw;
     margin-bottom: 12.5vh;
     width: 800px;
     line-height: 1.7;
@@ -529,7 +529,7 @@ div.sub_text:nth-child(2) {
   #container_3 .text .main_text{
     margin: 4vh;
     font-family: 'Noto Sans KR', sans-serif;
-    font-size: 30px;
+    font-size: 15px;
     font-weight: 300;
   
   }
@@ -556,13 +556,13 @@ div.sub_text:nth-child(2) {
   #container_4 .text{
     position: relative;
     text-align: center;
-    font-size: 30px;
+    font-size: 15px;
     font-family: 'Noto Sans KR', sans-serif;
     font-weight: 100;
   }
   
   #container_4 .border{
-    border-bottom: 2px solid black;
+    border-bottom: 1px solid black;
     width: 70vw;
     margin: 3vh auto;
   }
@@ -592,7 +592,7 @@ div.sub_text:nth-child(2) {
   #container_4 .text .main_text{
     margin-top: 15vh;
     font-family: 'Noto Sans KR', sans-serif;
-    font-size: 30px;
+    font-size: 15px;
     font-weight: 300;
   
   }
@@ -610,13 +610,13 @@ div.sub_text:nth-child(2) {
   
    #container_5{
      text-align: center;
-     font-size: 18px;
+     font-size: 9px;
      font-family: 'Heebo', sans-serif;
      margin-bottom:  12.5vh;
   
   }
   #container_5 .border{
-    border-bottom: 2px solid black;
+    border-bottom: 1px solid black;
     width: 70vw;
     margin: 3vh auto;
   }
@@ -648,7 +648,7 @@ div.sub_text:nth-child(2) {
     height: 100%;
     position: relative;
     text-align: center;
-    font-size: 24px;
+    font-size: 12px;
     font-family: 'Noto Sans KR', sans-serif;
     font-weight: 100;
     line-height: 1.5;
@@ -659,7 +659,7 @@ div.sub_text:nth-child(2) {
     width: 100%;
     margin: 7vh auto;
     font-family: 'Noto Sans KR', sans-serif;
-    font-size: 36px;
+    font-size: 18px;
     font-weight: 300;
     line-height: 1.5;
   }
@@ -669,7 +669,7 @@ div.sub_text:nth-child(2) {
     }
   #container_1 .text .main_text .a{
     font-family: 'Nanum Pen Script', cursive;
-    font-size: 65px;
+    font-size: 32px;
   }
   
   /* 1페이지 끝 */
@@ -696,13 +696,13 @@ div.sub_text:nth-child(2) {
     margin: 7vh auto;
     position: relative;
     text-align: center;
-    font-size: 24px;
+    font-size: 12px;
     font-family: 'Noto Sans KR', sans-serif;
     font-weight: 100;
   }
   
   #container_2 .border{
-    border-bottom: 2px solid black;
+    border-bottom: 1px solid black;
     width: 70vw;
     margin: 0 auto;
     margin-top: -2vh;
@@ -719,7 +719,7 @@ div.sub_text:nth-child(2) {
   #container_2 .text .main_text{
     margin: 2.5vh;
     font-family: 'Noto Sans KR', sans-serif;
-    font-size: 24px;
+    font-size: 12px;
     font-weight: 300;
   
   }
@@ -746,14 +746,14 @@ div.sub_text:nth-child(2) {
   #container_3 .text{
     position: relative;
     text-align: center;
-    font-size: 24px;
+    font-size: 12px;
     font-family: 'Noto Sans KR', sans-serif;
     font-weight: 100;
     margin: 0 auto;
   }
   
   #container_3 .border{
-    border-bottom: 2px solid black;
+    border-bottom: 1px solid black;
     width: 70vw;
     margin: 0 auto;
     margin-top: -2vh;
@@ -766,7 +766,7 @@ div.sub_text:nth-child(2) {
   #container_3 .text .inner_text_2{
     position:relative;
     text-align: left;
-    margin-left: 6vw;
+    margin-left: 20vw;
     width: 800px;
     line-height: 1.5;
   }
@@ -774,7 +774,7 @@ div.sub_text:nth-child(2) {
     position: relative;
     text-align: left;
     margin-top: 6vh;
-    margin-left: 6vw;
+    margin-left: 20vw;
     margin-bottom: 12.5vh;
     width: 800px;
     line-height: 1.5;
@@ -782,7 +782,7 @@ div.sub_text:nth-child(2) {
   #container_3 .text .main_text{
     margin: 3vh;
     font-family: 'Noto Sans KR', sans-serif;
-    font-size: 24px;
+    font-size: 12px;
     font-weight: 300;
   
   }
@@ -809,13 +809,13 @@ div.sub_text:nth-child(2) {
   #container_4 .text{
     position: relative;
     text-align: center;
-    font-size: 24px;
+    font-size: 12px;
     font-family: 'Noto Sans KR', sans-serif;
     font-weight: 100;
   }
   
   #container_4 .border{
-    border-bottom: 2px solid black;
+    border-bottom: 1px solid black;
     width: 70vw;
     margin: 2.4vh auto;
   }
@@ -845,7 +845,7 @@ div.sub_text:nth-child(2) {
   #container_4 .text .main_text{
     margin-top: 10vh;
     font-family: 'Noto Sans KR', sans-serif;
-    font-size: 24px;
+    font-size: 12px;
     font-weight: 300;
   
   }
@@ -863,13 +863,13 @@ div.sub_text:nth-child(2) {
   
    #container_5{
      text-align: center;
-     font-size: 18px;
+     font-size: 9px;
      font-family: 'Heebo', sans-serif;
      margin-bottom:  10vh;
   
   }
   #container_5 .border{
-    border-bottom: 2px solid black;
+    border-bottom: 1px solid black;
     width: 70vw;
     margin: 2.4vh auto;
   }
@@ -901,7 +901,7 @@ div.sub_text:nth-child(2) {
     height: 100%;
     position: relative;
     text-align: center;
-    font-size: 19px;
+    font-size: 11px;
     font-family: 'Noto Sans KR', sans-serif;
     font-weight: 100;
     line-height: 1.5;
@@ -912,7 +912,7 @@ div.sub_text:nth-child(2) {
     width: 100%;
     margin: 7vh auto;
     font-family: 'Noto Sans KR', sans-serif;
-    font-size: 29px;
+    font-size: 16px;
     font-weight: 300;
     line-height: 1.5;
   }
@@ -922,7 +922,7 @@ div.sub_text:nth-child(2) {
     }
   #container_1 .text .main_text .a{
     font-family: 'Nanum Pen Script', cursive;
-    font-size: 52px;
+    font-size: 26px;
   }
   
   /* 1페이지 끝 */
@@ -949,13 +949,13 @@ div.sub_text:nth-child(2) {
     margin: 7vh auto;
     position: relative;
     text-align: center;
-    font-size: 19px;
+    font-size: 11px;
     font-family: 'Noto Sans KR', sans-serif;
     font-weight: 100;
   }
   
   #container_2 .border{
-    border-bottom: 2px solid black;
+    border-bottom: 1px solid black;
     width: 70vw;
     margin: 0 auto;
     margin-top: -2vh;
@@ -972,7 +972,7 @@ div.sub_text:nth-child(2) {
   #container_2 .text .main_text{
     margin: 2.5vh;
     font-family: 'Noto Sans KR', sans-serif;
-    font-size: 19px;
+    font-size: 11px;
     font-weight: 300;
   
   }
@@ -999,14 +999,14 @@ div.sub_text:nth-child(2) {
   #container_3 .text{
     position: relative;
     text-align: center;
-    font-size: 19px;
+    font-size: 11px;
     font-family: 'Noto Sans KR', sans-serif;
     font-weight: 100;
     margin: 0 auto;
   }
   
   #container_3 .border{
-    border-bottom: 2px solid black;
+    border-bottom: 1px solid black;
     width: 70vw;
     margin: 0 auto;
     margin-top: -2vh;
@@ -1019,7 +1019,7 @@ div.sub_text:nth-child(2) {
   #container_3 .text .inner_text_2{
     position:relative;
     text-align: left;
-    margin-left: 6vw;
+    margin-left: 20vw;
     width: 800px;
     line-height: 1.5;
   }
@@ -1027,7 +1027,7 @@ div.sub_text:nth-child(2) {
     position: relative;
     text-align: left;
     margin-top: 6vh;
-    margin-left: 6vw;
+    margin-left: 20vw;
     margin-bottom: 12.5vh;
     width: 800px;
     line-height: 1.5;
@@ -1035,7 +1035,7 @@ div.sub_text:nth-child(2) {
   #container_3 .text .main_text{
     margin: 3vh;
     font-family: 'Noto Sans KR', sans-serif;
-    font-size: 19px;
+    font-size: 11px;
     font-weight: 300;
   
   }
@@ -1062,13 +1062,13 @@ div.sub_text:nth-child(2) {
   #container_4 .text{
     position: relative;
     text-align: center;
-    font-size: 19px;
+    font-size: 11px;
     font-family: 'Noto Sans KR', sans-serif;
     font-weight: 100;
   }
   
   #container_4 .border{
-    border-bottom: 2px solid black;
+    border-bottom: 1px solid black;
     width: 70vw;
     margin: 2.4vh auto;
   }
@@ -1098,7 +1098,7 @@ div.sub_text:nth-child(2) {
   #container_4 .text .main_text{
     margin-top: 10vh;
     font-family: 'Noto Sans KR', sans-serif;
-    font-size: 19px;
+    font-size: 11px;
     font-weight: 300;
   
   }
@@ -1116,13 +1116,13 @@ div.sub_text:nth-child(2) {
   
    #container_5{
      text-align: center;
-     font-size: 14px;
+     font-size: 8px;
      font-family: 'Heebo', sans-serif;
      margin-bottom:  10vh;
   
   }
   #container_5 .border{
-    border-bottom: 2px solid black;
+    border-bottom: 1px solid black;
     width: 70vw;
     margin: 2.4vh auto;
   }
